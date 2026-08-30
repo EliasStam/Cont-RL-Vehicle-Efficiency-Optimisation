@@ -1,6 +1,4 @@
-# Cont-RL-Vehicle-Efficiency-Optimisation
-
-# Autonomous EV Path Planning & Control via Reinforcement Learning
+# Autonomous Path Planning & Control via Reinforcement Learning
 
 This repository implements a custom Gymnasium environment and a 2D kinematic vehicle simulator to train autonomous electric vehicle agents using Soft Actor-Critic (SAC) via Stable-Baselines3. The agent must navigate 2D terrain, manage energy consumption, account for atmospheric wind forces, and utilize charging stations to reach a target destination.
 
